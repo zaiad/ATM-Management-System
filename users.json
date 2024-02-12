@@ -1,0 +1,73 @@
+[
+  {
+    "accountID": "ACC1001",
+    "name": "John Doe",
+    "pin": "1234",
+    "balance": 1500,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 500,
+        "date": "2024-02-01"
+      },
+      {
+        "type": "withdraw",
+        "amount": 200,
+        "date": "2024-02-02"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1002",
+    "name": "Jane Smith",
+    "pin": "4321",
+    "balance": 2200,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      },
+      {
+        "type": "withdraw",
+        "amount": 300,
+        "date": "2024-02-04"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC7186",
+    "name": "zaiad",
+    "pin": "2636",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACC7352",
+    "name": "fares",
+    "pin": "4761",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACC1853",
+    "name": "ouma",
+    "pin": "3539",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACC1545",
+    "name": "bahija",
+    "pin": "8396",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACC5979",
+    "name": "bahija",
+    "pin": "4991",
+    "balance": 0,
+    "transactions": []
+  }
+]
